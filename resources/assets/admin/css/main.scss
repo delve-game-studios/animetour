@@ -1,0 +1,10 @@
+@import "variables";
+@import "../../../../node_modules/sass-rem/rem";
+@import "../../../../node_modules/@coreui/coreui/scss/coreui";
+@import "../../../../node_modules/simple-line-icons/scss/simple-line-icons.scss";
+@import "base";
+@import "ladda";
+
+ico.icon-ban {
+    transform: rotate(90deg);
+}
