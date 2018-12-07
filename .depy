@@ -11,8 +11,8 @@
 # )
 
 # SERVERS
-# staging_host=jetspark.io
+# staging_host=
 # staging_port=2202
-# staging_user=website.jetspark.io
+# staging_user=
 # staging_key=~/.ssh/id_rsa
-# staging_dir=/var/www/website.jetspark.io
+# staging_dir=/var/www/
